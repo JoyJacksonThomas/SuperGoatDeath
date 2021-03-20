@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a191fd562189dce4bb0582f8e483df50, type: 3}
+  m_Name: Gun5Expert
+  m_EditorClassIdentifier: 
+  data:
+  - projectileType: 1
+    bullet: {fileID: 11400000, guid: 7acd89a5c7ceb614d9d3983b1b53b656, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: -3.8, y: 4.8}
+    spawnAddative: 0
+    bulletRotationOffSet: 0
+  - projectileType: 1
+    bullet: {fileID: 11400000, guid: 7acd89a5c7ceb614d9d3983b1b53b656, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: 3.8, y: 4.8}
+    spawnAddative: 0
+    bulletRotationOffSet: 0
+  - projectileType: 1
+    bullet: {fileID: 11400000, guid: 7acd89a5c7ceb614d9d3983b1b53b656, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: -3.8, y: -4.9}
+    spawnAddative: 0
+    bulletRotationOffSet: 0
+  - projectileType: 1
+    bullet: {fileID: 11400000, guid: 7acd89a5c7ceb614d9d3983b1b53b656, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: 3.8, y: -4.9}
+    spawnAddative: 0
+    bulletRotationOffSet: 0
+  - projectileType: 0
+    bullet: {fileID: 11400000, guid: 5cf56a6eebfa92f488bd06155e8d0370, type: 2}
+    fireRate: 60
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: 0, y: 0}
+    spawnAddative: 1
+    bulletRotationOffSet: 180
+  - projectileType: 0
+    bullet: {fileID: 11400000, guid: 5cf56a6eebfa92f488bd06155e8d0370, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: 0, y: 0}
+    spawnAddative: 1
+    bulletRotationOffSet: 190
+  - projectileType: 0
+    bullet: {fileID: 11400000, guid: 5cf56a6eebfa92f488bd06155e8d0370, type: 2}
+    fireRate: 120
+    burstFireData: {x: 0, y: 0}
+    bulletSpawnDelay: 0
+    bulletSpawnOffSet: {x: 0, y: 0}
+    spawnAddative: 1
+    bulletRotationOffSet: 170
